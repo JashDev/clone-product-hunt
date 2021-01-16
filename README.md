@@ -1,4 +1,4 @@
-<p align="center" style="margin: 30px 0;"><a href="http://www.galaxiasoftware.com/" target="_blank" rel="noopener noreferrer"><img width="150" src="https://res.cloudinary.com/da1yarvtc/image/upload/v1607997234/General/logo_ebihlw.png?fbclid=IwAR0ZoxIlUe31jLTPMKWhPiBsokjoBk54dGhIMximiGNyu0YK0vbcTo6dPHw" alt="logo galaxia"></a></p>
+<p align="center" style="margin: 30px 0;"><img width="150" src="https://res.cloudinary.com/jsifuentes/image/upload/v1610461583/mwrm1jhvqfkrdxyijmnx.png" alt="logo JS"></p>
 
 # CLONE PRODUCTHUNT
 
